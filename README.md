@@ -60,9 +60,7 @@ local distance = vec2:getDistance(vectorLib.vec2_t.new(3, 4))
 ```
 
 ## Contributing
-```
-Contributions to this library are welcome! Feel free to fork the repository, make changes, and submit pull requests.
-```
+- Contributions to this library are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## Credits
-- @MrReekoFTWxD for the original vector libary
+- [MrReekoFTWxD](https://github.com/MrReekoFTWxD) for the original vector libary
